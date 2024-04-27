@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pirran</h1>
-<h3 align="center">An enthusiastic learner, aiming to be good enough to contribute to the open source community.</h3>
+<h1 align="center">Hi 👋, I'm Pirranasaurus</h1>
+<h3 align="center">An enthusiastic learner.</h3>
 
 <p align="left"> <a href="https://twitter.com/pirranasaurus" target="blank"><img src="https://img.shields.io/twitter/follow/pirranasaurus?logo=twitter&style=for-the-badge" alt="pirranasaurus" /></a> </p>
 
-- 🔭 I’m currently working on **Selfhosted website**
+- 🔭 I’m currently working on a **website**
 
 - 🌱 I’m currently learning **Python, Javascript, HTML/CSS**
 
