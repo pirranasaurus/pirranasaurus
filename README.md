@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/pirranasaurus" target="blank"><img src="https://img.shields.io/twitter/follow/pirranasaurus?logo=twitter&style=for-the-badge" alt="pirranasaurus" /></a> </p>
 
-- 🔭 I’m currently working on a **website**
-
 - 🌱 I’m currently learning **Cyber security, Python, **
+
+- 🔭 I’m currently working on a **website**
 
 - 🔭Also working on **Envoriment monitoring with Raspberry Pi**
 
