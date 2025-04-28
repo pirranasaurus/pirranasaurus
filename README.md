@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on a **website**
 
-- 🌱 I’m currently learning **Python, Javascript, HTML/CSS**
+- 🌱 I’m currently learning **Cyber security, Python, **
 
 - 🔭Also working on **Envoriment monitoring with Raspberry Pi**
-
-- 🔭And **Pi Pico advent calendar**
 
 
 <h3 align="left">Languages and Tools:</h3>
