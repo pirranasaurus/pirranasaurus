@@ -24,7 +24,7 @@
 
 `Raspberry Pi 4` → `Enviro+ pHAT` → `Tailscale` → `Tmux` → `Hermes`
 
-**Languages:** Python, some Rust, a bit of Bash  
+**Languages:** Python and a bit of Bash  
 **Tools I reach for:** nmap, ffuf, gobuster, Textual, yaml, git  
 **CTF platform:** TryHackMe — top 1%
 
